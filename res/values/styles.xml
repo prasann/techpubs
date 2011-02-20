@@ -1,0 +1,6 @@
+<resources>
+    <style name="DropDownText">
+        <item name="android:textSize">10sp</item>
+        <item name="android:thickness">10sp</item>
+    </style>
+</resources>

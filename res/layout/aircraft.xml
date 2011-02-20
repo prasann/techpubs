@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:id="@+id/aircraftTab"
+              android:orientation="vertical">
+    <AutoCompleteTextView
+            android:id="@+id/aircraftText"
+            android:layout_width="fill_parent"
+            android:layout_height="50sp"
+            android:textSize="20sp"
+            android:dropDownHeight="fill_parent"
+            android:completionHintView="@style/DropDownText"/>
+</LinearLayout>
